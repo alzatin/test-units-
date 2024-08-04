@@ -1,12 +1,43 @@
 {
     "atomType": "Molecule",
-    "name": "test units ",
+    "name": "test-units-",
     "x": 0,
     "y": 0,
     "uniqueID": 1722792295709,
     "ioValues": [],
     "topLevel": true,
-    "allAtoms": [],
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1722792652618,
+            "ioValues": []
+        },
+        {
+            "atomType": "Molecule",
+            "name": "jokey",
+            "x": 0.36905871388630007,
+            "y": 0.5623100303951367,
+            "uniqueID": 1722792657154,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.98,
+                    "y": 0.5,
+                    "uniqueID": 1722792657485,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1,
+            "compiledBom": {}
+        }
+    ],
     "allConnectors": [],
     "unitsKey": "MM",
     "fileTypeVersion": 1,
